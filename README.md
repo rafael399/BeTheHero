@@ -29,6 +29,8 @@ Todos os registros são salvos em um banco de dados sqlite
 
 ![Web Dashboard](./img/github/front3.png)
 
-![Mobile Dashboard](./img/github/mobile1.png)
+<!-- ![Mobile Dashboard](./img/github/mobile1.png) -->
+<img src="./img/github/mobile1.png" width="300" height="600" />
 
-![Mobile Case Detail](./img/github/mobile2.png)
+<!-- ![Mobile Case Detail](./img/github/mobile2.png) -->
+<img src="./img/github/mobile2.png" width="300" height="600" />
