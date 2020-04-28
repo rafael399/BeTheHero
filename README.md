@@ -7,7 +7,7 @@ Desenvolvemos o Backend em Node.js, a parte web com ReactJS e a parte mobile com
 
 Todos os registros são salvos em um banco de dados sqlite
 
-## :question: Como rodar o desafio
+## :question: Como rodar o projeto
 
 - Clone o repositório
 - Rode o comando `npm install` no `backend`, `frontend` e `mobile` para fazer a instalação das dependencias
